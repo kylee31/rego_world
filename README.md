@@ -5,7 +5,7 @@ c++로 레고를 소재로 한 짧은 애니메이션 제작 (2021, c++)
 ## 프로젝트 설명
 > **youtube link**
 
-[Rego World](https://www.youtube.com/watch?v=rPEAUjF2jpQ)
+[Rego World (3분 내외)](https://www.youtube.com/watch?v=rPEAUjF2jpQ)
 <br><br>
 
 ## 프로젝트 실행 (youtube 영상 캡처)
